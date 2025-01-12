@@ -13,7 +13,7 @@
 </style>
 </head>
 <body>
-<h1>Two Warriors vs. Boss Problem</h1>
+<h1>Boss Fight</h1>
 <p>We have <em>N</em> warriors, each with:</p>
 <ul>
 <li><strong>H<sub>i</sub></strong>: Health</li>
